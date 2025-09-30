@@ -1,7 +1,8 @@
 ## Olá, Eu sou o Bruno Rodrigo
 
-- 🔭 Hoje trabalho com T.I 
-- 🌱 Estudando: Javascript
+- 🔭 Hoje trabalho com venda onlines
+- 🌱 Estudando: HTML, CSS e JavaScript
+- 👩‍💻 Espero entra no mercado de programação
 
 <picture style="flex">
   <source
@@ -23,4 +24,10 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<div>  
+
+
+
 </div>
