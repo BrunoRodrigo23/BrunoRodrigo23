@@ -13,7 +13,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoRodrigo23&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoRodrigo23&show_icons=true"/>
 </picture>
 
 
@@ -26,8 +26,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div>  
-
-
-
-</div>
+![Snake animation](https://github.com/BrunoRodrigo23/BrunoRodrigo23/blob/output/github-contribution-grid-snake.svg)
