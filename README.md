@@ -4,7 +4,7 @@
 - 🌱 Estudando: HTML, CSS e JavaScript
 - 👩‍💻 Espero entra no mercado de programação
 
-<picture style="flex">
+
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=BrunoRodrigo23&show_icons=true&theme=blue"
     media="(prefers-color-scheme: dark)"
